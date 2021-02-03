@@ -193,7 +193,8 @@ namespace DXApplication2.Ekranlar
             }
             catch (Exception ex)
             {
-                MessageBox.Show(string.Empty + ex);
+                MessageBox.Show("Hata : "+string.Empty + ex);
+
             }
         }
 
