@@ -1,0 +1,5 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Lenovo\Desktop\masaüstü\Google Drive\Visual Studio\Tahmincim\DXApplication2\bin\Debug\Bunifu_UI_v1.5.3.dll" /&gt;&#xD;
+  &lt;ProjFile Path="C:\Users\Lenovo\Desktop\masaüstü\Google Drive\Visual Studio\deneme\Bunifu_UI_v1.5.3\Bunifu_UI_v1.5.3.csproj" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
